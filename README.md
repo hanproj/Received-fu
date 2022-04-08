@@ -9,3 +9,7 @@ Source: Harvard Journal of Asiatic Studies , Jun., 1981, Vol. 41, No. 1 (Jun., 1
 47-64
 Published by: Harvard-Yenching Institute
 Stable URL: https://www.jstor.org/stable/2718999
+
+we have pdfs of 
+- 全汉赋
+- 全汉赋评注 (3 vols)
