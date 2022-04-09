@@ -6,6 +6,7 @@ This is a repository for creating a rhyme annotated corpus of received Han dynas
 we have pdfs of
 - 全汉赋
 - 全汉赋评注 (3 vols)
+
 These have been OCRed using Abbyy Finereader
 
 ## Notes on secondary literature
