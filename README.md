@@ -9,6 +9,12 @@ we have pdfs of
 
 These have been OCRed using Abbyy Finereader
 
+We also have the 
+
+- 全漢文 
+
+as an .htm file courtesy of Jeff Tharsen
+
 ## Notes on secondary literature
 
 N.B. the following article annotates about 50 rhymes. 
