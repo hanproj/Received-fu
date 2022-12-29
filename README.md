@@ -25,3 +25,8 @@ Source: Harvard Journal of Asiatic Studies , Jun., 1981, Vol. 41, No. 1 (Jun., 1
 47-64
 Published by: Harvard-Yenching Institute
 Stable URL: https://www.jstor.org/stable/2718999
+
+This book, apparently, annotates rhymes in a good number of Fu. 
+
+Suzuki Torao 鈴木虎雄. Fu shi da yao 賦史大要. Translated by Di ping xian chuban 
+she 地平線出版社. Taibei: Di ping xian, 1963. (Looks like this is the original -- Suzuki Torao 鈴木虎雄, 賦史大要 Fushi taiyō, TokyoL 冨山房 Shōwa 11 [1936]). SOAS doesn't have it, but Cambridge has both. 
