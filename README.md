@@ -30,3 +30,8 @@ This book, apparently, annotates rhymes in a good number of Fu.
 
 Suzuki Torao 鈴木虎雄. Fu shi da yao 賦史大要. Translated by Di ping xian chuban 
 she 地平線出版社. Taibei: Di ping xian, 1963. (Looks like this is the original -- Suzuki Torao 鈴木虎雄, 賦史大要 Fushi taiyō, Tokyo 冨山房 Shōwa 11 [1936]). SOAS doesn't have it, but Cambridge has both. 
+
+This article, has rhyme judgements (both Fu and Shi, I presume) in the poetry of Yang Xiong 杨雄
+
+Coblin, W. South. “The finals of Yang Xiong's language” Journal of Chinese Linguistics 12, no. 1 (1984): 1–53. http://www.jstor.org/stable/23754185.
+
